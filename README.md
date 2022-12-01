@@ -3,4 +3,4 @@ My repo
 
 My first Repository on GitHub
 
-I like board games
+I like board games.
